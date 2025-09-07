@@ -1,0 +1,24 @@
+.mail{margin: 0 auto;width: 80%;}
+.mail:after;{display: block;clear: both;content:"";}
+.header{text-align: center;width: 100%;height: 100 px;;
+clear: both;border: 4px dashed IndianRed;}
+.column{text-align: center;padding-top: 100 px;width: 50%;min-height: 20px;margin-bottom: 50px;
+float: left;display: block;padding-top:30px;}
+.folk{text-align: justify;}
+#leftcolum{}
+#rightcolumn{}
+table{background-color:snow; border-color:IndianRed;}
+body{background-color:MistyRose;}
+b{color: darkblue;}
+p{color:hwb(241 16% 95%);font-family: Helvetica, Arial, sans-serif;font-size: 16px;text-align: justify; padding: 10px 0 10px 10px; text-indent: 25px;}
+tr{text-align: center;}
+h2{font-family: OCR A Std, monospace, sans-serif;font-size: 24px;text-align: center;color: darkblue; }
+h3{background-color:royalblue;color: darkblue;font-family: FreeMono, monospace, sans-serif;font-size: 20px;}
+h4{font-family: FreeMono, monospace, sans-serif;font-size: 16px; color: IndianRed;}
+h5{font-family: cursive;font-size: 12px; color: IndianRed; text-align:right;}
+em{color:IndianRed;}
+#lok{text-align: center;}
+#quote{text-align: center;color: IndianRed;font-family: Times, Courier, serif;}
+#ab{text-align:right;}
+#ba{text-align:left;}
+
